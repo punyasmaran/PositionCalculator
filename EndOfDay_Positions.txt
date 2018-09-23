@@ -1,0 +1,3 @@
+Instrument,Account,AccountType,Quantity,Delta
+IBM,101,E,101000,1000
+IBM,201,I,-101000,-1000
